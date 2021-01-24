@@ -1,1 +1,3 @@
-print("hello world, we tested github slack integration!")
+print("hello world!")
+
+print(1+1 == 2)
