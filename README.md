@@ -1,4 +1,4 @@
-# MATH-80600A-Project
+# MATH-80600A-Project Topic Undetermined
 
 ### Repository setup / Getting started
 1. Clone this repository
@@ -10,4 +10,5 @@ cd MATH-80600A-Project
 2. Install the required Python packages with pipenv:
 ```shell
 pipenv install -r requirements.txt
+
 ```
