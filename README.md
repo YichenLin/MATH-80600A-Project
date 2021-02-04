@@ -83,7 +83,9 @@ https://github.com/caserec/Datasets-for-Recommender-Systems
 
 https://towardsdatascience.com/recommendation-system-series-part-6-the-6-variants-of-autoencoders-for-collaborative-filtering-bd7b9eae2ec7
 
-https://github.com/hwang018/recommenders_pytorch 
+https://github.com/hwang018/recommenders_pytorch
+
+https://cemoody.github.io/simple_mf/
 
 
 
