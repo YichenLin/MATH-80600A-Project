@@ -3,6 +3,6 @@
     "editor.rulers": [120],
     "editor.renderWhitespace": "all",
     "files.autoSave": "onWindowChange",
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "remote"
     
 }
