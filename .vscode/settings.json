@@ -4,6 +4,6 @@
     ],
     "editor.renderWhitespace": "all",
     "files.autoSave": "onWindowChange",
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "remote"
     
 }
